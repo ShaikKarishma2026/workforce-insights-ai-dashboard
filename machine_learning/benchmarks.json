@@ -1,0 +1,292 @@
+{
+  "Data Scientist": {
+    "department": "Data & AI",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Pandas",
+      "Scikit-Learn",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Deep Learning",
+      "AWS",
+      "BigQuery",
+      "PyTorch"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Critical Thinking",
+      "Communication"
+    ],
+    "min_experience_years": 2.0,
+    "recommended_trainings": [
+      "Advanced Machine Learning & Deep Learning",
+      "Executive Data Analytics & Storytelling"
+    ]
+  },
+  "Senior Data Scientist": {
+    "department": "Data & AI",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "Statistics",
+      "AWS"
+    ],
+    "optional_skills": [
+      "Spark",
+      "TensorFlow",
+      "Data Modeling",
+      "BigQuery"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Mentorship",
+      "Problem Solving",
+      "Communication"
+    ],
+    "min_experience_years": 5.0,
+    "recommended_trainings": [
+      "AI Ethics & Responsible Generative AI",
+      "Executive Data Analytics & Storytelling"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "department": "Data & AI",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "AWS",
+      "Scikit-Learn",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "PyTorch",
+      "Kubernetes",
+      "CI/CD",
+      "Spark"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Teamwork",
+      "Adaptability"
+    ],
+    "min_experience_years": 3.0,
+    "recommended_trainings": [
+      "DevOps, Docker & Kubernetes in Production",
+      "Advanced Machine Learning & Deep Learning"
+    ]
+  },
+  "Data Analyst": {
+    "department": "Data & AI",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Pandas",
+      "Excel",
+      "BigQuery"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Attention to Detail",
+      "Critical Thinking"
+    ],
+    "min_experience_years": 1.0,
+    "recommended_trainings": [
+      "Executive Data Analytics & Storytelling"
+    ]
+  },
+  "Software Engineer": {
+    "department": "Engineering",
+    "required_skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Git",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "Docker",
+      "PostgreSQL",
+      "CI/CD",
+      "AWS"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Problem Solving",
+      "Collaboration"
+    ],
+    "min_experience_years": 1.5,
+    "recommended_trainings": [
+      "Full-Stack Web Development Bootcamp",
+      "DevOps, Docker & Kubernetes in Production"
+    ]
+  },
+  "Senior Software Engineer": {
+    "department": "Engineering",
+    "required_skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Docker",
+      "Microservices",
+      "REST APIs",
+      "Git"
+    ],
+    "optional_skills": [
+      "Kubernetes",
+      "AWS",
+      "PostgreSQL",
+      "CI/CD",
+      "Java"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Mentorship",
+      "Problem Solving"
+    ],
+    "min_experience_years": 5.0,
+    "recommended_trainings": [
+      "DevOps, Docker & Kubernetes in Production",
+      "Agile Leadership & Scrum Master Certification"
+    ]
+  },
+  "Cloud Architect": {
+    "department": "Engineering",
+    "required_skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "Microservices",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Python",
+      "Go",
+      "PostgreSQL",
+      "REST APIs"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Strategic Thinking",
+      "Communication"
+    ],
+    "min_experience_years": 7.0,
+    "recommended_trainings": [
+      "AWS Certified Solutions Architect",
+      "DevOps, Docker & Kubernetes in Production"
+    ]
+  },
+  "DevOps Engineer": {
+    "department": "Engineering",
+    "required_skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD",
+      "Linux",
+      "Git"
+    ],
+    "optional_skills": [
+      "Python",
+      "Go",
+      "Microservices"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Time Management",
+      "Collaboration"
+    ],
+    "min_experience_years": 2.5,
+    "recommended_trainings": [
+      "DevOps, Docker & Kubernetes in Production",
+      "AWS Certified Solutions Architect"
+    ]
+  },
+  "Product Manager": {
+    "department": "Product",
+    "required_skills": [
+      "Product Strategy",
+      "Agile/Scrum",
+      "Roadmapping",
+      "Jira",
+      "A/B Testing"
+    ],
+    "optional_skills": [
+      "Figma",
+      "SQL",
+      "Data Analysis",
+      "User Research"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Negotiation",
+      "Problem Solving"
+    ],
+    "min_experience_years": 3.0,
+    "recommended_trainings": [
+      "Agile Leadership & Scrum Master Certification",
+      "Executive Data Analytics & Storytelling"
+    ]
+  },
+  "HR Business Partner": {
+    "department": "Human Resources",
+    "required_skills": [
+      "Employee Relations",
+      "Performance Management",
+      "HRIS",
+      "Labor Law",
+      "People Analytics"
+    ],
+    "optional_skills": [
+      "Talent Acquisition",
+      "Conflict Resolution",
+      "Compensation & Benefits"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Emotional Intelligence",
+      "Negotiation"
+    ],
+    "min_experience_years": 4.0,
+    "recommended_trainings": [
+      "Strategic HR Management Masterclass"
+    ]
+  },
+  "Financial Analyst": {
+    "department": "Finance",
+    "required_skills": [
+      "Financial Modeling",
+      "Excel",
+      "Budgeting",
+      "Forecasting",
+      "SQL"
+    ],
+    "optional_skills": [
+      "Power BI",
+      "QuickBooks",
+      "Variance Analysis"
+    ],
+    "soft_skills": [
+      "Critical Thinking",
+      "Problem Solving",
+      "Time Management"
+    ],
+    "min_experience_years": 2.0,
+    "recommended_trainings": [
+      "Financial Modeling & Valuation Analyst (FMVA)"
+    ]
+  }
+}

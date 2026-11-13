@@ -1,0 +1,21 @@
+{
+  "name": "workforce-insights-ai-dashboard",
+  "version": "2.0.0",
+  "description": "An end-to-end Workforce Analytics and AI-powered Employee Skills Dashboard using Python, SQL, EDA, Machine Learning, RAG, FastAPI and React.",
+  "scripts": {
+    "start": "python run.py",
+    "test": "python tests/test_platform.py"
+  },
+  "keywords": [
+    "workforce-analytics",
+    "hr-analytics",
+    "machine-learning",
+    "rag",
+    "vector-database",
+    "fastapi",
+    "react",
+    "eda"
+  ],
+  "author": "Shaik Karishma <https://github.com/ShaikKarishma2026>",
+  "license": "MIT"
+}

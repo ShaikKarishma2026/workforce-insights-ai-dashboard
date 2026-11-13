@@ -1,0 +1,45 @@
+{
+  "accuracy": 0.6308,
+  "precision": 0.2286,
+  "recall": 0.2759,
+  "f1_score": 0.25,
+  "roc_auc": 0.5176,
+  "confusion_matrix": [
+    [
+      74,
+      27
+    ],
+    [
+      21,
+      8
+    ]
+  ],
+  "feature_importances": {
+    "Salary": 0.165,
+    "Performance_Rating": 0.1531,
+    "Experience_Years": 0.1318,
+    "Projects_Completed": 0.1216,
+    "Age": 0.101,
+    "Work_Life_Balance": 0.0746,
+    "Job_Satisfaction": 0.0709,
+    "Department_Code": 0.0603,
+    "Skill_Count": 0.0495,
+    "Gender_Code": 0.0326,
+    "Has_Training": 0.0246,
+    "Overtime_Code": 0.015
+  },
+  "feature_cols": [
+    "Age",
+    "Experience_Years",
+    "Salary",
+    "Job_Satisfaction",
+    "Work_Life_Balance",
+    "Performance_Rating",
+    "Projects_Completed",
+    "Overtime_Code",
+    "Skill_Count",
+    "Has_Training",
+    "Department_Code",
+    "Gender_Code"
+  ]
+}

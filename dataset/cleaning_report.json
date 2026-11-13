@@ -1,0 +1,74 @@
+{
+  "initial_record_count": 655,
+  "initial_missing_values": {
+    "Employee_ID": 0,
+    "Name": 0,
+    "Age": 0,
+    "Gender": 0,
+    "Department": 0,
+    "Job_Role": 0,
+    "Experience_Years": 0,
+    "Salary": 0,
+    "Education": 11,
+    "Technical_Skills": 0,
+    "Soft_Skills": 21,
+    "Performance_Rating": 0,
+    "Location": 0,
+    "Training_History": 80,
+    "Overtime": 0,
+    "Job_Satisfaction": 0,
+    "Work_Life_Balance": 0,
+    "Projects_Completed": 0,
+    "Attrition": 0
+  },
+  "duplicates_removed": 5,
+  "outliers_treated": [
+    {
+      "Employee_ID": "EMP0013",
+      "Role": "Accounting Manager",
+      "Old_Salary": 999999.0,
+      "Cleaned_Salary": 120000.0
+    }
+  ],
+  "imputations": {
+    "Education_imputed": 11,
+    "Training_History_imputed": 80
+  },
+  "engineered_features": [
+    "Skill_Count",
+    "Salary_Per_Exp",
+    "Tenure_Tier",
+    "Performance_Tier",
+    "Has_Training"
+  ],
+  "final_record_count": 650,
+  "final_missing_values": {
+    "Employee_ID": 0,
+    "Name": 0,
+    "Age": 0,
+    "Gender": 0,
+    "Department": 0,
+    "Job_Role": 0,
+    "Experience_Years": 0,
+    "Salary": 0,
+    "Education": 0,
+    "Technical_Skills": 0,
+    "Soft_Skills": 0,
+    "Performance_Rating": 0,
+    "Location": 0,
+    "Training_History": 0,
+    "Overtime": 0,
+    "Job_Satisfaction": 0,
+    "Work_Life_Balance": 0,
+    "Projects_Completed": 0,
+    "Attrition": 0,
+    "Skill_Count": 0,
+    "Salary_Per_Exp": 0,
+    "Tenure_Tier": 0,
+    "Performance_Tier": 0,
+    "Has_Training": 0,
+    "Overtime_Code": 0,
+    "Gender_Code": 0,
+    "Department_Code": 0
+  }
+}

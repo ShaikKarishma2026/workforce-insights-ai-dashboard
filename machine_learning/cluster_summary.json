@@ -1,0 +1,74 @@
+[
+  {
+    "cluster_id": 0,
+    "title": "Full-Stack & Cloud System Architects",
+    "employee_count": 127,
+    "percentage": 19.5,
+    "avg_experience_years": 14.5,
+    "avg_salary": 170269.0,
+    "avg_performance": 3.64,
+    "dominant_department": "Engineering",
+    "top_skills": {
+      "AWS": 30,
+      "SQL": 26,
+      "Python": 25,
+      "GIT": 22,
+      "GO": 21
+    },
+    "description": "Group of 127 professionals averaging 14.5 years of experience and $170,269 median compensation, primarily skilled in AWS, SQL, Python."
+  },
+  {
+    "cluster_id": 1,
+    "title": "Data, Analytics & AI Specialists",
+    "employee_count": 174,
+    "percentage": 26.8,
+    "avg_experience_years": 5.5,
+    "avg_salary": 104267.0,
+    "avg_performance": 3.07,
+    "dominant_department": "Data & AI",
+    "top_skills": {
+      "AWS": 44,
+      "SQL": 36,
+      "Python": 28,
+      "Power Bi": 25,
+      "CRM": 25
+    },
+    "description": "Group of 174 professionals averaging 5.5 years of experience and $104,267 median compensation, primarily skilled in AWS, SQL, Python."
+  },
+  {
+    "cluster_id": 2,
+    "title": "Senior Technical & Domain Leaders",
+    "employee_count": 146,
+    "percentage": 22.5,
+    "avg_experience_years": 6.4,
+    "avg_salary": 110702.0,
+    "avg_performance": 4.28,
+    "dominant_department": "Engineering",
+    "top_skills": {
+      "Python": 33,
+      "SQL": 31,
+      "AWS": 27,
+      "GIT": 24,
+      "Power Bi": 23
+    },
+    "description": "Group of 146 professionals averaging 6.4 years of experience and $110,702 median compensation, primarily skilled in Python, SQL, AWS."
+  },
+  {
+    "cluster_id": 3,
+    "title": "Agile Practitioners & Operational Specialists",
+    "employee_count": 203,
+    "percentage": 31.2,
+    "avg_experience_years": 5.8,
+    "avg_salary": 106754.0,
+    "avg_performance": 3.76,
+    "dominant_department": "Data & AI",
+    "top_skills": {
+      "AWS": 28,
+      "Power Bi": 25,
+      "SQL": 23,
+      "Python": 23,
+      "Machine Learning": 21
+    },
+    "description": "Group of 203 professionals averaging 5.8 years of experience and $106,754 median compensation, primarily skilled in AWS, Power Bi, SQL."
+  }
+]

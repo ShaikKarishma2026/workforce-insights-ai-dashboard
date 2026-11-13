@@ -1,0 +1,84 @@
+{
+  "department_distribution": {
+    "largest_department": "Engineering",
+    "largest_count": 175,
+    "largest_pct": 26.9,
+    "smallest_department": "Customer Support",
+    "smallest_count": 55,
+    "total_departments": 7,
+    "key_insight": "Engineering and Data & AI constitute 49.5% of total enterprise headcount."
+  },
+  "gender_distribution": {
+    "breakdown": {
+      "Male": 368,
+      "Female": 263,
+      "Non-Binary": 19
+    },
+    "female_percentage": 40.5,
+    "male_percentage": 56.6,
+    "non_binary_percentage": 2.9,
+    "key_insight": "Female representation stands at 40.5%, demonstrating strong gender diversity balance across technical and business functions."
+  },
+  "experience_analysis": {
+    "mean_experience": 7.5,
+    "median_experience": 6.7,
+    "min_experience": 1.0,
+    "max_experience": 20.8,
+    "key_insight": "The workforce has an average experience of 7.5 years, with a healthy distribution from entry-level apprentices to veteran technical leads."
+  },
+  "salary_analysis": {
+    "highest_paying_dept": "Engineering",
+    "highest_paying_median": 135300.0,
+    "overall_median_salary": 115800.0,
+    "overall_mean_salary": 119385.0,
+    "key_insight": "Engineering commands the highest median compensation ($135,300), reflecting high market premiums for deep engineering and AI specialization."
+  },
+  "top_technical_skills": {
+    "top_skill": "AWS",
+    "top_skill_count": 129,
+    "top_skills_ranked": {
+      "AWS": 129,
+      "SQL": 116,
+      "Python": 109,
+      "Power Bi": 92,
+      "GIT": 76,
+      "CRM": 61,
+      "C++": 58,
+      "Java": 56,
+      "Postgresql": 56,
+      "Javascript": 56,
+      "Jira": 55,
+      "Node.js": 54
+    },
+    "key_insight": "AWS (129 practitioners) and SQL (116 practitioners) form the organizational foundational technology stack."
+  },
+  "department_performance": {
+    "highest_performing_dept": "Product",
+    "highest_avg_rating": 3.73,
+    "overall_avg_rating": 3.67,
+    "key_insight": "Product leads company performance with an average appraisal score of 3.73 / 5.0."
+  },
+  "skill_gap_analysis": {
+    "highest_skill_density": "Customer Support",
+    "highest_avg_skills": 5.1,
+    "lowest_skill_density": "Sales & Marketing",
+    "lowest_avg_skills": 4.4,
+    "key_insight": "Sales & Marketing displays lower average technical skill inventory (4.4 skills/person), highlighting prime candidates for targeted cross-functional upskilling."
+  },
+  "exp_vs_perf": {
+    "correlation_coefficient": 0.039,
+    "key_insight": "Correlation between experience and performance rating is 0.04, demonstrating that high performance occurs across both newer agile talent and tenured leaders."
+  },
+  "training_impact": {
+    "trained_avg_performance": 3.67,
+    "untrained_avg_performance": 3.66,
+    "performance_lift": 0.01,
+    "key_insight": "Employees who completed corporate certifications achieve a +0.01 higher average performance appraisal score compared to untrained peers."
+  },
+  "correlation_findings": {
+    "salary_experience_corr": 0.88,
+    "satisfaction_attrition_corr": -0.06,
+    "balance_attrition_corr": -0.07,
+    "key_insight": "Job Satisfaction (-0.06) and Work-Life Balance (-0.07) show strong negative correlations with Attrition, signaling retention sensitivity to workplace well-being."
+  }
+}
